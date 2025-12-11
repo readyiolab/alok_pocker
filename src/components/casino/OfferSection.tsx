@@ -10,7 +10,7 @@ const OfferSection = () => {
       {/* Background image with overlay */}
       <div className="absolute inset-0">
         <img 
-          src="/image2.webp" 
+          src="/food.webp" 
           alt="Casino background"
           className="w-full h-full object-cover"
         />

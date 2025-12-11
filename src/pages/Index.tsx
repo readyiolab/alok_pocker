@@ -4,6 +4,7 @@ import OfferSection from "@/components/casino/OfferSection";
 import FeaturesSection from "@/components/casino/FeaturesSection";
 import ResponsiblePlaySection from "@/components/casino/ResponsiblePlaySection";
 import Footer from "@/components/casino/Footer";
+import GamesSection from "@/components/casino/GamesSection";
 
 const Index = () => {
   return (
@@ -11,6 +12,7 @@ const Index = () => {
       <HeroSection />
       <AboutSection />
       <OfferSection />
+      <GamesSection/>
       <FeaturesSection />
       <ResponsiblePlaySection />
       <Footer />
