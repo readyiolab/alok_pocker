@@ -73,7 +73,7 @@ const Footer = () => {
 
             <div className="pt-2">
               <p className="text-sm text-gray-400">
-                © 2025. All rights reserved.
+                © 2025. Royalflashsports All rights reserved.
               </p>
             </div>
           </div>
