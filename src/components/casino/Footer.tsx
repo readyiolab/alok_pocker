@@ -80,20 +80,7 @@ const Footer = () => {
 
           {/* Right Section - Contact Info */}
           <div className="space-y-8">
-            {/* Bengaluru */}
-            <div className="space-y-2">
-              <h3 className="text-xl font-bold text-white uppercase tracking-wider">
-                CONNECT | DELHI
-              </h3>
-              <div className="space-y-1 text-gray-300">
-                <a href="tel:+917925385472" className="block text-lg hover:text-amber-500 transition-colors">
-                  +91 792538547
-                </a>
-                <a href="mailto:info@royalflush.red" className="block hover:text-amber-500 transition-colors">
-                info@royalflush.red
-                </a>
-              </div>
-            </div>
+           
 
             {/* Lucknow */}
             <div className="space-y-2">
